@@ -6,30 +6,16 @@
 
 ## Password - Buy in Admin 
 
+[ONLY UNPATCHED VERSION] - TikTok Shares/Views
+
 ## Usage on TERMUX 
 
-```sh
-
-$ apk update
-
-$ apk upgrade
-
-$ pkg install python
-
-$ pkg install python2
-
-$ pkg install python3
-
-$ pkg install git
-
-$ git clone https://github.com/blackserver3301/ddos_Thailand.git
-
-Use-
-
-$ cd ddos_Thailand
-
-$ pyhton2 hulk.py (https://Your website name.com)
-
+```sh 
+termux-setup-storage && apt update && apt upgrade && pkg install python && pip install requests && pip install bs4 && pip install colorama && pip install pystyle && pip install selenium && pip install beautifulsoup4 && pkg install php && pip install inquirer && pip install pillow 
 ```
+## Run Python 
+
+```sh
+cd /sdcard/download && python { Error File name }
 
 
