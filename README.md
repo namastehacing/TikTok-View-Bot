@@ -8,6 +8,8 @@
 
 [ONLY UNPATCHED VERSION] - TikTok Shares/Views
 
+# Telegram: https://t.me/NAMASTEHACKINGKH
+
 ## Usage on TERMUX 
 
 ```sh 
